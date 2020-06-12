@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-openssh-certs</artifactId>
+	<packaging>bundle</packaging>
 	<name>OpenSSH Certificate Support</name>
 	<description>Adds support for OpenSSH certificates as SSH host and authentication keys</description>
 

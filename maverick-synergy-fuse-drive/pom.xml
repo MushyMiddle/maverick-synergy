@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-synergy-fuse-drive</artifactId>
+	<packaging>bundle</packaging>
 	<name>Server API</name>
 	<description>A FUSE implementation for connecting drive to a remote SFTP service.</description>
 

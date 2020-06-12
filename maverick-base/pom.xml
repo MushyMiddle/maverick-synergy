@@ -28,6 +28,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-base</artifactId>
+	<packaging>bundle</packaging>
 	<name>Base API</name>
 	<description>The core components shared between the Maverick Synergy and Maverick Legacy SSH APIs</description>
 

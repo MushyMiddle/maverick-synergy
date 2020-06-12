@@ -37,14 +37,20 @@
 	<licenses>
 		<license>
 			<name>GNU Lesser General Public License</name>
-			<url>http://www.gnu.org/licenses/gpl.html</url>
+			<url>http://www.gnu.org/licenses/lgpl.html</url>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+
 	<scm>
 		<url>https://github.com/sshtools/maverick-synergy/</url>
 		<connection>scm:git:https://github.com/sshtools/maverick-synergy.git</connection>
 	</scm>
+
+	<organization>
+		<name>JADAPTIVE Limited</name>
+		<url>https://www.jadaptive.com</url>
+	</organization>
 
 	<developers>
 		<developer>
@@ -202,6 +208,16 @@
 				<groupId>com.github.spotbugs</groupId>
 				<artifactId>spotbugs-maven-plugin</artifactId>
 				<version>3.1.12.2</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<version>4.2.1</version>
+				<extensions>true</extensions>
+				<configuration>
+					<instructions>
+					</instructions>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

@@ -26,6 +26,7 @@
     <version>3.0.0-SNAPSHOT</version>
   </parent>
   <artifactId>maverick-synergy-callback-client</artifactId>
+  <packaging>bundle</packaging>
   <name>Callback Client API</name>
   <description>An SSH client that connects to a Callback Server but switches to act as a server</description>
   

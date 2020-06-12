@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-synergy-common</artifactId>
+	<packaging>bundle</packaging>
 	<name>Common API</name>
 	<description>The core components shared between the Maverick Synergy Client and Maverick Synergy Server SSH APIs</description>
 

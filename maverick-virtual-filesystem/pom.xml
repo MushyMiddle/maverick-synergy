@@ -26,6 +26,7 @@
     <version>3.0.0-SNAPSHOT</version>
   </parent>
   <artifactId>maverick-virtual-filesystem</artifactId>
+  <packaging>bundle</packaging>
   <name>Virtual File System</name>
   <description>Support for mounting multiple back-end AbstractFile implementations in a virtual file structure</description>
   

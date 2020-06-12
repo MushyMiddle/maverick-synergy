@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-x509</artifactId>
+	<packaging>bundle</packaging>
 	<name>X509 Certificate Support</name>
 	<description>Support for X509 certificates as SSH host and authentication keys</description>
 

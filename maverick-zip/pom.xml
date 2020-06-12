@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-zip</artifactId>
+	<packaging>bundle</packaging>
 	<name>Compression Support</name>
 	<description>Enables zip compression support</description>
 

@@ -28,6 +28,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-bc</artifactId>
+	<packaging>bundle</packaging>
 	<name>BouncyCastle JCE Support</name>
 	<description>Enables tighter integration with the BouncyCastle JCE Provider</description>
 

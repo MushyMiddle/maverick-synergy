@@ -26,6 +26,7 @@
     <version>3.0.0-SNAPSHOT</version>
   </parent>
   <artifactId>maverick-sshagent</artifactId>
+  <packaging>bundle</packaging>
   <name>Key Agent</name>
   <description>Client and server implementations of the SSH agent protocol</description>
   

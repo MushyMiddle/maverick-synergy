@@ -28,6 +28,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-synergy-client</artifactId>
+	<packaging>bundle</packaging>
 	<name>Client API</name>
 	<description>The client-side implementation for the Maverick Synergy SSH API</description>
 

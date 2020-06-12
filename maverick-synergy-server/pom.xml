@@ -27,6 +27,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>maverick-synergy-server</artifactId>
+	<packaging>bundle</packaging>
 	<name>Server API</name>
 	<description>The server-side implementation for the Maverick Synergy SSH API</description>
 
